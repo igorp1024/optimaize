@@ -1,5 +1,6 @@
-##Building
-####Prerequisites
+## Building
+#### Prerequisites
+
  * Maven 3.6 (tested on 3.6.3)
  * Java 11 (tested on OpenJdk 11)
 
@@ -18,9 +19,9 @@ To build just run the maven as
 mvn clean package
 ```
 
-##Running
+## Running
 After you've built the project run it as an executable jar:
 ```bash
 java -jar target/the_thing-1.0.0.jar
 ```
-The just follow the instructions you see in the console.
+Then just follow the instructions you see in the console.
